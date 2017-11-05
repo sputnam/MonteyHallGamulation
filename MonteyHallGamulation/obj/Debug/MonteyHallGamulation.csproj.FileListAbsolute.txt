@@ -1,0 +1,6 @@
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\bin\Debug\MonteyHallGamulation.exe.config
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\bin\Debug\MonteyHallGamulation.exe
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\bin\Debug\MonteyHallGamulation.pdb
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\obj\Debug\MonteyHallGamulation.csprojResolveAssemblyReference.cache
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\obj\Debug\MonteyHallGamulation.exe
+c:\users\sputnam\documents\visual studio 2012\Projects\MonteyHallGamulation\MonteyHallGamulation\obj\Debug\MonteyHallGamulation.pdb
